@@ -1,0 +1,18 @@
+h1  {
+text-align:center;font-size: 75px
+}
+
+h4  {
+  text-align: center;
+}
+
+img {
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+body  {
+  background-color: grey
+}
